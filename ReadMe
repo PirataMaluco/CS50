@@ -13,7 +13,8 @@
 - Lab1 - Population: Determine how long it takes for a population to reach a particular size.
 - Problem Set 01:
 - - Hello;
-- - Mario - Toward the beginning of World 1-1 in Nintendo’s Super Mario, Mario must hop over adjacent pyramids of blocks. Recreate those pyramids.
+- - Mario - Toward the beginning of World 1-1 in Nintendo’s Super Mario, Mario must hop over adjacent pyramids of blocks. 
+            Recreate those pyramids, albeit in text, using hashes (#) for bricks.   
 - - Cash - Implement a program that prompts the user for the number of cents that is owed and then prints the smallest number 
            of coins with which that change can be made (Greedy Algorithm).
 

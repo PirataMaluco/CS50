@@ -1,12 +1,20 @@
 *** *** ***  Repository with CS50 Projects and Lab assignments. *** *** ***
 
-Week 00
+== Week 00 ==
 - Scratch
+- - Implement in Scratch any project of your choice, be it an interactive story, game, animation, or anything else, subject only to the following requirements:
+- - - Must use at least two sprites, at least one of which must not be a cat.
+- - - Must have at least three scripts total (i.e., not necessarily three per sprite).
+- - - Must use at least one conditional, at least one loop, and at least one variable.
+- - - Must use at least one custom block that you have made yourself (via Make a Block), which must take at least one input.
+- - - Should be more complex than most of those demonstrated in lecture.
 
-Week 01
-- 1. Lab1 - Population: Determine how long it takes for a population to reach a particular size.
+== Week 01 ==
+- Lab1 - Population: Determine how long it takes for a population to reach a particular size.
 - Problem Set 01:
 - - Hello;
 - - Mario(more);
 - - Cash.
+
+== Week 02 ==
 
